@@ -1,2 +1,2 @@
 # nc
-New to web development and iOS coding
+New to Github,web development, and iOS coding
